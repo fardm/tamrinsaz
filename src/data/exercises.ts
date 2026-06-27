@@ -1265,5 +1265,15 @@ export const exercisesData: Exercise[] = [
     otherNames: 'Dumbbell Shrug',
     // description: '<iframe width="315" height="560" class="justify-self-center rounded-xl" src="https://www.youtube.com/embed/m0WBwgBitRM?start=13&end=18" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   },
+  {
+    id: '126',
+    name: 'ددلیفت سومو هالتر',
+    targetMuscles: ['پا', 'همسترینگ', 'باسن'],
+    equipment: 'هالتر',
+    type: 'قدرتی',
+    image: '126.webp',
+    otherNames: 'Barbell Sumo Deadlift From Blocks',
+    // description: '<iframe width="315" height="560" class="justify-self-center rounded-xl" src="https://www.youtube.com/embed/m0WBwgBitRM?start=13&end=18" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+  },
 ];
 
